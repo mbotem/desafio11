@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/desafio11.git/static/css/main.129275c5.css",
-    "main.js": "/desafio11.git/static/js/main.7651cfa4.js",
-    "index.html": "/desafio11.git/index.html",
-    "main.129275c5.css.map": "/desafio11.git/static/css/main.129275c5.css.map",
-    "main.7651cfa4.js.map": "/desafio11.git/static/js/main.7651cfa4.js.map"
+    "main.css": "/desafio11/static/css/main.129275c5.css",
+    "main.js": "/desafio11/static/js/main.d7663fda.js",
+    "index.html": "/desafio11/index.html",
+    "main.129275c5.css.map": "/desafio11/static/css/main.129275c5.css.map",
+    "main.d7663fda.js.map": "/desafio11/static/js/main.d7663fda.js.map"
   },
   "entrypoints": [
     "static/css/main.129275c5.css",
-    "static/js/main.7651cfa4.js"
+    "static/js/main.d7663fda.js"
   ]
 }
