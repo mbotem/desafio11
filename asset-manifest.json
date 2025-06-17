@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mbotem/desafio11.git/static/css/main.129275c5.css",
-    "main.js": "/mbotem/desafio11.git/static/js/main.93b50755.js",
-    "index.html": "/mbotem/desafio11.git/index.html",
-    "main.129275c5.css.map": "/mbotem/desafio11.git/static/css/main.129275c5.css.map",
-    "main.93b50755.js.map": "/mbotem/desafio11.git/static/js/main.93b50755.js.map"
+    "main.css": "/desafio11.git/static/css/main.129275c5.css",
+    "main.js": "/desafio11.git/static/js/main.7651cfa4.js",
+    "index.html": "/desafio11.git/index.html",
+    "main.129275c5.css.map": "/desafio11.git/static/css/main.129275c5.css.map",
+    "main.7651cfa4.js.map": "/desafio11.git/static/js/main.7651cfa4.js.map"
   },
   "entrypoints": [
     "static/css/main.129275c5.css",
-    "static/js/main.93b50755.js"
+    "static/js/main.7651cfa4.js"
   ]
 }
